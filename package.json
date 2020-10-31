@@ -1,13 +1,9 @@
 {
-  "dependencies": {
-    "node-web-server-with-stuff": "^1.0.3"
-  },
   "name": "a-project-on-the-node-web-server-with-stuff",
   "version": "1.0.0",
-  "main": "index.cjs",
-  "devDependencies": {},
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "node index.cjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +17,7 @@
     "url": "https://github.com/UniBreakfast/a-project-on-the-node-web-server-with-stuff/issues"
   },
   "homepage": "https://github.com/UniBreakfast/a-project-on-the-node-web-server-with-stuff#readme",
-  "description": ""
+  "dependencies": {
+    "node-web-server-with-stuff": "^1.0.3"
+  }
 }
