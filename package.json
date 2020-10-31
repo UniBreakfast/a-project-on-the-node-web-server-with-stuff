@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/UniBreakfast/a-project-on-the-node-web-server-with-stuff#readme",
   "dependencies": {
-    "node-web-server-with-stuff": "^1.0.3"
+    "node-web-server-with-stuff": "^1.0.4"
   }
 }
