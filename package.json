@@ -5,6 +5,7 @@
   "main": "index.cjs",
   "scripts": {
     "start": "node index.cjs",
+    "up": "npm i node-web-server-with-stuff@latest",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,6 @@
   },
   "homepage": "https://github.com/UniBreakfast/a-project-on-the-node-web-server-with-stuff#readme",
   "dependencies": {
-    "node-web-server-with-stuff": "^1.0.6"
+    "node-web-server-with-stuff": "^1.0.8"
   }
 }
